@@ -11,13 +11,13 @@ class Sample                               // Class declaration
 		
 		
 	double res=Math.sqrt(n);              //Define Method body  
-		System.out.println("Square Root of a Given Number:  " +res);
+		System.out.println("Square Root of a Given Number:  " +res);     //Displays Square root of the number
 	}
 	public void cubeRoot(double n)         //Declare a method
 	{
 				
 		double result=Math.cbrt(n);
-		System.out.println("Cube Root of a Given Number:   " +result);
+		System.out.println("Cube Root of a Given Number:   " +result);   //Displays Cube Root of the Number
 	}
 	
 }
